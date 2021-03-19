@@ -1,0 +1,72 @@
+<html>
+<head>
+
+<style>
+Div {
+   background-color: white;    
+  text-align: center;
+}
+
+body {background-color:#ffcccc}
+
+h1 {font-size:50px;text-align:center ;color: #ffcccc;font-family:"Times New Roman",Times,serif;}
+
+</style>
+
+<title> 
+Lecture 4
+</title>
+</head>
+<body>
+<div class="myDiv">
+<h1>
+Web Pages Matching Contrast, Repetition, Alignment, and Proximity
+</h1>
+</div>
+<br>
+<p style="color:#595959;font-family:Times New Roman;font-size:40px">CONTRAST</p>
+<a href="https://www.indicius.com/"><img src="https://i.paste.pics/938d7a6ab37dfd4b2accbea8af3b7bfe.png" style="width:450px;height:250px;margin-right:45px;float:left"></a>
+<dl style="color: #538cc6;font-family:Times New Roman;font-size:30px">
+<dt>Shape</dt>
+<dd>- Many different shapes were in the image.</dd>
+<br>
+<dt>Color</dt>
+<dd>- The background color would contradict each other.</dd>
+<dd>- The color contrast between the background color and the graphics looks comfortable.</dd>
+</dl>
+<br>
+<br>
+<p style="text-align: right;color:#595959;font-family:Times New Roman;font-size:40px">REPETITION</p>
+<a href="https://www.oksocial.co.uk/"><img src="https://i.paste.pics/79fc806b56411392f64c446680a28f7a.png" style="width:450px;height:250px;margin-left:45px;float:right"></a>
+<ol style="color:#669999;font-family:Times New Roman;font-size:30px">
+  <li>The paragraphs and their fonts on the phone repeat continuously.</li>
+  <li>The patterns with pairs being side by side of each other were also repeating.</li>
+  <li>The repetition of this page format makes it look organized and simple.</li>
+</ol>
+<br>
+<br>
+<p style="color:#595959;font-family:Times New Roman;font-size:40px">ALIGNMENT</p>
+<a href="https://www.quantile.com/"><img src="https://i.paste.pics/1984b377faf0436e3ff4b6685b5e5eaa.png" style="width:450px;height:250px;margin-right:45px;float:left"></a>
+
+<ul style="color:#538cc6;font-family:Times New Roman;font-size:30px">
+  <li>The website consists of blocks.</li>
+  <li>You can see that each square is aligned in order.</li>
+  <li>In addition, categories and titles have been organized and aligned.
+</ul>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p style="text-align: right;color:#595959;font-family:Times New Roman;font-size:40px">PROXIMITY</p>
+<a href="https://www.shopatanna.com/"><img src="https://www.thebestdesigns.com/design-images/shopatanna.com-1.jpg" style="width:450px;height:250px;margin-left:45px;float:right"></a>
+<ol style="color:#669999;font-family:Times New Roman;font-size:30px">
+  <li>There are blank spaces throughout the homepage, which is a good example of proximity.</li>
+  <li>There is space between each part, creating a very good visual art.</li>
+  <li>Larger fonts will first attract the viewer's attention, and various font sizes build visual hierarchy.</li>
+</ol>
+<br>
+</body>
+</html>
